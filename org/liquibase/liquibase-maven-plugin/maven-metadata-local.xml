@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.liquibase</groupId>
+  <artifactId>liquibase-maven-plugin</artifactId>
+  <versioning>
+    <latest>3.5.0-bbcm</latest>
+    <release>3.5.0-bbcm</release>
+    <versions>
+      <version>3.5.0-bbcm</version>
+    </versions>
+    <lastUpdated>20160204084237</lastUpdated>
+  </versioning>
+</metadata>

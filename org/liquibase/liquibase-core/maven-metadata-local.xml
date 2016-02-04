@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.liquibase</groupId>
+  <artifactId>liquibase-core</artifactId>
+  <versioning>
+    <release>3.5.0-bbcm</release>
+    <versions>
+      <version>3.5.0-bbcm</version>
+    </versions>
+    <lastUpdated>20160204084233</lastUpdated>
+  </versioning>
+</metadata>
